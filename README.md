@@ -1,2 +1,2 @@
 # Carrinhos
- Primeiro versionamento do curso de git e github do Guanabara
+Aproveitei meu projeto antigo para colocar no github junto do curso de Git e Github do Guanabara
